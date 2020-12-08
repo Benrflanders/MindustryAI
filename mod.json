@@ -1,0 +1,9 @@
+{
+    "name": "Mindustry AI ",
+    "displayName": "Mod [red]Mindustry AI[]",
+    "author": "Ben Flanders",
+    "description": "This is a description. ",
+    "version": "1.0",
+    "minGameVersion": "100.3",
+    "dependencies": []
+}
